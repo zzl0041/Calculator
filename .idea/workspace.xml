@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c344a93-01f5-457d-af1b-4c12d3efd65c" name="Changes" comment="finish commit">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="2c344a93-01f5-457d-af1b-4c12d3efd65c" name="Changes" comment="Mock 1 upload">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mock2/Q1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,12 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726020405654</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mock 1 upload">
+      <option name="closed" value="true" />
+      <created>1729620230199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729620230199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initiate commit" />
     <MESSAGE value="finish commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish commit" />
+    <MESSAGE value="Mock 1 upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mock 1 upload" />
   </component>
 </project>
