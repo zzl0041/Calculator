@@ -37,6 +37,7 @@ public class Calculator {
     public Calculator(Map<String, OperationStrategy> operationMap){
         this.operationMap = operationMap;
     }
+
     public Number calculate(String operation, Number num1, Number num2){
         OperationStrategy strategy = operationMap.get(operation);
         if(strategy == null) throw new UnsupportedOperationException("Operation not supported: " + operation);
