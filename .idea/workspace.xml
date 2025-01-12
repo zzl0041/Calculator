@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c344a93-01f5-457d-af1b-4c12d3efd65c" name="Changes" comment="Mock 2 upload">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mock2/Q2.java" afterDir="false" />
+    <list default="true" id="2c344a93-01f5-457d-af1b-4c12d3efd65c" name="Changes" comment="Mock 2 update">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.CalculatorBasicTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CalculatorEnumTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CalculatorMapTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.CalculatorBasicTest.executor": "Run",
+    "Gradle.CalculatorEnumTest.executor": "Run",
+    "Gradle.CalculatorMapTest.executor": "Run",
+    "Gradle.CalculatorTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Zhongan Lin/IdeaProjects/Calculator/src/main/pre_screen/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Gradle.CalculatorEnumTest">
     <configuration name="CalculatorBasicTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -216,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729639028607</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mock 2 update">
+      <option name="closed" value="true" />
+      <created>1729639879134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729639879134</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +234,18 @@
     <MESSAGE value="finish commit" />
     <MESSAGE value="Mock 1 upload" />
     <MESSAGE value="Mock 2 upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mock 2 upload" />
+    <MESSAGE value="Mock 2 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mock 2 update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/pre_screen/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,2 +1,4 @@
 rootProject.name = 'Calculator'
+include 'src:main:pre_screen'
+findProject(':src:main:pre_screen')?.name = 'pre_screen'
 
